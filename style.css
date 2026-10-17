@@ -1,0 +1,27 @@
+body {
+    padding: 20px 20px 20px 20px;
+    background-color: lightskyblue;
+
+
+    /*background-repeat: no-repeat;*/
+
+
+}
+
+p {
+    padding: 20px 500px 20px 500px;
+}
+
+.hidden {
+    display: none;
+
+}
+
+.red {
+    color: rgb(86, 86, 247);
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    border: solid 5px rgb(64, 187, 187);
+    border-radius: 100px;
+}
