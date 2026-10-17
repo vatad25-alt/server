@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/vatad25-alt/server#readme",
+  "bugs": {
+    "url": "https://github.com/vatad25-alt/server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatad25-alt/server.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "socket.io": "^4.8.4"
+  }
+}
